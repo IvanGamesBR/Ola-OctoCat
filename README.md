@@ -1,2 +1,2 @@
-# Ola OctoCat
- Reposítório de aprendizado ao GitHub
+# Olá OctoCat
+ Reposítório de aprendizado ao GitHub(em poucas palavras, meu primeiro :) )
